@@ -190,4 +190,3 @@ Open **`http://localhost:8501`** in your browser to:
 * **🛰️ Multi-View IR Reconstruction**: Interactively fuse multiple viewpoint passes, adjust homography/fusion algorithms, and generate True-Color RGB translations.
 * **🖼️ Single-Image IR-to-RGB Translation**: Upload custom IR imagery (.tif, .png, .jpg, .npz) to synthesize photographic or calibrated AI True-Color RGB imagery.
 * **📊 Dynamic Image Analytics**: Real-time radiometric metrics, spectral reflectance histograms, horizontal transect profiles, and Sobel edge frequency analysis computed dynamically from your active satellite imagery.
-
